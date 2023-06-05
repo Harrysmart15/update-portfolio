@@ -57,16 +57,16 @@ const Home = () => {
             <IoMdMail size={30}  />
           </a>
         </div>
-        {/* <Resume className="resume">
+        <Resume className="resume">
             <ResumeLink
               download="Harikarthi.k"
-              href="file:///C:/Users/harik/Downloads/White%20Navy%20Modern%20Company%20Resume%20(1).pdf"
+              href="https://www.leetcv.com/r/_k.harikarthi._5952"
               target={"_blank"}
               icon={downloadIcon}
             >
               View Resume
             </ResumeLink>
-          </Resume> */}
+          </Resume>
       </StyledHome>
     </IconContext.Provider>
   );
